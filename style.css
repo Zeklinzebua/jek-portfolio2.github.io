@@ -525,7 +525,6 @@ body {
     transition: 1s;
     text-align: center;
     padding: 100px;
-    /* z-index: 9999; */
 
 }
 .overlay:target {
